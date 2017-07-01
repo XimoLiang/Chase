@@ -15,7 +15,7 @@ public class ReadQuestionContains {
 	/*
 	 * *
 	 * 
-	 * @A sample source file for the code formatter preview.
+	 * @A sample source file for the code formatter preview..
 	 */
 	public static void main(String[] args) throws IOException { //ddafkl
 	// TODO Auto-generated method stub
